@@ -1,5 +1,4 @@
 # Trabalho 1 - Probabilidade e Estatística (UFFS)
-# Para executar: python trabalho_probabilidade.py  (Python 3.8 ou mais novo, só usa bibliotecas padrão)
 import math
 import random
 
